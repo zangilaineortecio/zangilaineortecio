@@ -1,7 +1,9 @@
 ## Hi there 👋
+
+
 I'm Zangilaine Dela Tonga Ortecio
-#I'm a 1st Year IT College Student
-#I'm currently learning CyberSecurity
+I'm a 1st Year IT College Student
+I'm currently learning CyberSecurity
 
 <!--
 **zangilaineortecio/zangilaineortecio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
